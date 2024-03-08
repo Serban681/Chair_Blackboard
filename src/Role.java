@@ -1,0 +1,7 @@
+public enum Role {
+    CUT_SEAT,
+    ASSEMBLE_FEET,
+    ASSEMBLE_BACKREST,
+    ASSEMBLE_STABILIZER_BAR,
+    PACKAGE_CHAIR
+}
