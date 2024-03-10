@@ -35,4 +35,8 @@ public class BasicChair extends Chair {
             isAssembled = true;
         }
     }
+
+    public boolean checkIfPackaged() {
+        return isPackaged;
+    }
 }
